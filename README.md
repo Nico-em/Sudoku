@@ -2,7 +2,7 @@
 
 **Description:**
 
-
+This project uses constraint satisfaction to solve a sudoku. The forward checking (FC) and Minimum remaining values (MRV) heuristics are implemented and can be specified as terminal arguments when running the sudoku solver. A driver file has been added to run the sudokusolver on a puzzle without heuristics, with FC and with FC and MRV. 
 
 
 **Table of Contents:**
